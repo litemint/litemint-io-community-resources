@@ -1,6 +1,6 @@
 ## Welcome to the [litemint.io](https://litemint.io) community generated resources repo.
 
-This repo houses community generated documentation including translations and strategy guides related to the [litemint.io](https://litemint.io) collectibles card game (CCG).
+This repo houses community generated documentation including translations, rest API and strategy guides related to the [litemint.io](https://litemint.io) collectibles card game (CCG).
 
 Thank you for all the contributions and we would love to see yours! Do not hesitate to contact us on any of our social media links below or simply open an [issue on Github](https://github.com/litemint/litemint-io-community-resources/issues/new); we will get back to you right away!
 
