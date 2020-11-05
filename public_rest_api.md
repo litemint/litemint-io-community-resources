@@ -95,3 +95,33 @@ Generate and shuffle a playable deck based on a given list of cards.
 ## Notes
 
 * The returned deck is generated according to the current shuffle algorithm in the game.
+
+
+# Stats
+
+Get the server stats
+
+**URL** : `https://api.litemint.com:9088/stats/`
+
+**Method** : `GET`
+
+**Auth required** : No
+
+**Permissions required** : None
+
+## Success Response
+
+**Code** : `200 OK`
+
+**Content example**
+
+```json
+{
+    "totalbattles":1112265,
+    "totalplayers":41132
+}
+```
+
+## Notes
+
+* The result is returned as an object.
