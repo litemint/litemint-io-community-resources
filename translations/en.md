@@ -65,6 +65,7 @@ card_dex_00055|Trojan Dropper II|0|0|0|0|Give your opponent a Trojan on next dra
 card_dex_00056|Chosen One|0|0|0|0|You have 100% chance to draw a Favorite card. Passive.
 card_dex_00057|Enhanced Firewall|0|0|0|0|Firewall reduces drains by 100%. Passive.
 card_dex_00058|Searing Boomerang|0|7|0|0|Draw again. Overloaded. Once.
+card_dex_00059|**Fortune I**|0|0|0|0|You have 25% chance to double CREDIT rewards. Passive.
 
 ## Translation Contributors
 
