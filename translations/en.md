@@ -62,11 +62,12 @@ card_dex_00052|Survival Spec|0|0|0|0|Cheat death once. Damage void for 1 turn. P
 card_dex_00053|Life Hack|0|0|0|0|Steal 15 Health but cannot kill opponent.
 card_dex_00054|**Primal Hellfire**|0|11|0|0|Gain +2 Energy.
 card_dex_00055|Trojan Dropper II|0|0|0|0|Give your opponent a Trojan on next draw.
-card_dex_00056|Chosen One|0|0|0|0|You have 100% chance to draw a Favorite card. Passive.
+card_dex_00056|**Chosen One**|0|0|0|0|You have 100% chance to draw a Favorite card. Passive.
 card_dex_00057|Enhanced Firewall|0|0|0|0|Firewall reduces drains by 100%. Passive.
 card_dex_00058|Searing Boomerang|0|7|0|0|Draw again. Overloaded. Once.
 card_dex_00059|**Fortune I**|0|0|0|0|You have 25% chance to double CREDIT rewards. Passive.
-
+card_dex_00060|**Brawler**|0|0|0|0|Replace your first Repair with Brawl. Passive.
+card_dex_00061|**Brawl**|0|0|0|0|50-50 chance to get 1 or 7 Damage.
 ## Translation Contributors
 
 Official and default text.
