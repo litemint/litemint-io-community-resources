@@ -68,6 +68,7 @@ card_dex_00058|Searing Boomerang|0|7|0|0|Draw again. Overloaded. Once.
 card_dex_00059|**Fortune I**|0|0|0|0|You have 25% chance to double CREDIT rewards. Passive.
 card_dex_00060|**Brawler**|0|0|0|0|Replace your first Repair with Brawl. Passive.
 card_dex_00061|**Brawl**|0|0|0|0|50-50 chance to get 1 or 7 Damage.
+card_dex_00062|Sledgehammer|0|5|0|0|2X Damage against Armor!
 ## Translation Contributors
 
 Official and default text.
