@@ -62,15 +62,16 @@ card_dex_00052|Survival Spec|0|0|0|0|自分が死ぬダメージを受けても1
 card_dex_00053|Life Hack|0|0|0|0|相手の体力から15まで吸い取り、吸い取った分自分の体力が回復する。しかしこのカードで相手を倒すことは出来ない。
 card_dex_00054|**Primal Hellfire**|0|11|0|0|相手にダメージを与えながら2エナジーを得る。このカートはHellfire specの効果でのみ出現する。
 card_dex_00055|Trojan Dropper II|0|0|0|0|使用した時、相手の次に引くカードがTrojan armor piercerになる。
-
 card_dex_00056|**Chosen One**|0|0|0|0|お気に入りに登録したカードを最初の手札で確実に引くことができる。永続。
 card_dex_00057|**Enhanced Firewall**|0|0|0|0|エナジーを吸い取られなくなる。永続。
-card_dex_00058|Searing Boomerang|0|0|0|0|使用した次のターンで、チャージされた状態でもう一度引くことができる。
+card_dex_00058|Searing Boomerang|0|7|0|0|使用した次のターンで、チャージされた状態でもう一度引くことができる。
 card_dex_00059|**Fortune I**|0|0|0|0|試合終了後に25%の確率でもらえるクレジットを2倍にする。永続。
 card_dex_00060|**Brawler**|0|0|0|0|最初に引くrepairの代わりにBrawlを引く。永続。
-card_dex_00061|**Brawl**|0|0|0|0|使用した次のターンで、チャージされた状態でもう一度引くことができる。
-card_dex_00062|Searing Boomerang|0|0|0|0|使用した次のターンで、チャージされた状態でもう一度引くことができる。
+card_dex_00061|**Brawl**|0|0|0|0|ベースダメージが1か7のどちらかになる。
+card_dex_00062|Sledgehammer|0|5|0|0|アーマーに対して2倍のダメージを与える。
 
 ## Translation Contributors
 
-[@Mp4Suima](https://twitter.com/Mp4Suima)
+・[@Mp4Suima](https://twitter.com/Mp4Suima)
+
+・[@pippi_sniper](https://twitter.com/pippi_sniper)
