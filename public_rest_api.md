@@ -125,3 +125,64 @@ Get the server stats
 ## Notes
 
 * The result is returned as an object.
+
+# Shop
+
+Get the list of all cards currently available in the shop including Stellar DEX issuer and code, unlock conditions and price (CREDIT) if applicable.
+
+**URL** : `https://api.litemint.com:9088/shop/`
+
+**Method** : `GET`
+
+**Auth required** : No
+
+**Permissions required** : None
+
+## Success Response
+
+**Code** : `200 OK`
+
+**Content example**
+
+```json
+[
+  {
+    "card": "card_dex_00009",
+    "wins": 1,
+    "coins": 155,
+    "properties": {
+      "id": "card_dex_00009",
+      "type": 4,
+      "name": "Biohazard",
+      "icon": 3,
+      "points": [ 0, 15, 0, 0 ],
+      "boost": 0,
+      "dex": true
+    },
+    "code": "CARD00009",
+    "issuer": "GBAKUWF2HTJ325PH6VATZQ3UNTK2AGTATR43U52WQCYJ25JNSCF5OFUN"
+  },
+  {
+    "card": "card_dex_00060",
+    "properties": {
+      "id": "card_dex_00060",
+      "type": 4,
+      "name": "Brawler",
+      "icon": 58,
+      "points": [ 0, 0, 0, 0 ],
+      "boost": 0,
+      "dex": true,
+      "legendary": true,
+      "unlimited": true,
+      "passive": true,
+      "desc": "Replace your first\nRepair with\nBrawl. Passive."
+    },
+    "code": "CARD00060",
+    "issuer": "GBAKUWF2HTJ325PH6VATZQ3UNTK2AGTATR43U52WQCYJ25JNSCF5OFUN"
+  }
+]
+```
+
+## Notes
+
+* The result is returned as an array.
