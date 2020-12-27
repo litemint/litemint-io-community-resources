@@ -186,3 +186,52 @@ Get the list of all cards currently available in the shop including Stellar DEX 
 ## Notes
 
 * The result is returned as an array.
+
+# Leaderboard
+
+Get the current leaderboards (daily and seasonal) along with KDR stats for each player.
+
+**URL** : `https://api.litemint.com:9088/leaderboard/`
+
+**Method** : `GET`
+
+**Auth required** : No
+
+**Permissions required** : None
+
+## Success Response
+
+**Code** : `200 OK`
+
+**Content example**
+
+```json
+{
+  "ath": [
+    {
+      "id": "user1*litemint.com",
+      "battleid": "bdid1",
+      "name": "Player1",
+      "backid": 8,
+      "score": 125,
+      "kdr": 5.849074074074074,
+      "legend": 4089
+    }
+  ],
+  "top": [
+    {
+      "name": "Player2",
+      "battleid": "bdid2",
+      "backid": 13,
+      "score": "29",
+      "address": "GA7A...QQWH"
+    }
+  ],
+  "count": 49880,
+  "countall": "49880"
+}
+```
+
+## Notes
+
+* The result is returned as an object.
