@@ -69,6 +69,27 @@ card_dex_00059|**Fortune I**|0|0|0|0|You have 25% chance to double CREDIT reward
 card_dex_00060|**Brawler**|0|0|0|0|Replace your first Repair with Brawl. Passive.
 card_dex_00061|**Brawl**|0|0|0|0|50-50 chance to get 1 or 7 Damage.
 card_dex_00062|Sledgehammer|0|5|0|0|2X Damage against Armor!
+
+## Card Backs
+
+Id | Name | Description
+:-------:|:-------:|:-------
+0|Litemint|The Litemint Wallet logo
+1|Red Dragon|By Prasong Tadoungsorn
+2|Stellar|The Stellar Development Foundation logo
+3|Bitcoin|By Satoshi Nakamoto
+4|To The Moon!|By Adrien Coquet
+5|Insignia|Show off your rank!
+6|Gladiator Medal|Awarded to tournament competitors
+7|Black Swan|Awarded to S2 tournament winner
+8|One In A Million|Millionth battle reward
+9|Legendary Rush|Reached Legend in 24h!
+10|Discord Member|Claim it on Discord!
+11|Halloween 2020|Reward for Halloween Challenge.
+12|Treasure|Not collectable.
+13|Shooting Star|Reward for Winter Super Quest.
+14|Winter Snow|Reward for Winter Quest.
+
 ## Translation Contributors
 
 Official and default text.
