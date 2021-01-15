@@ -25,9 +25,9 @@ Edge Case: Boomerang will be drawn again after a full rotation but will not trig
 ## Shuffle Pseudo code
 
 ```
-Initialize the BaseDamageSet with card_base_00005, card_base_00008, card_base_00010, card_base_00011
-Initialize the BaseHealSet with card_base_00003, card_base_00006, card_base_00009
-Initialize the BaseEnergySet with card_base_00001, card_base_00004, card_base_00007
+Initialize BaseDamageSet with card_base_00005, card_base_00008, card_base_00010, card_base_00011
+Initialize BaseHealSet with card_base_00003, card_base_00006, card_base_00009
+Initialize BaseEnergySet with card_base_00001, card_base_00004, card_base_00007
 
 Remove all passive cards from PlayerDeck
 
@@ -78,12 +78,15 @@ If PlayerDeck length > 8
 
 If PlayerDeck length > 9
     Randomly shuffle (BaseDamageSet[2], BaseHealSet[2], BaseEnergySet[2], PlayerDeck[9])
-    Add the result to FinalDeck
+    Add the result to FinalDeck    
+    
+Initialize FavoriteCardSet with all player favorited cards (starred)
+Randomly shuffle FavoriteCardSet
 
-If the PlayerDeck has one or more favorited cards (starred).
-    Select a random FavoriteCard
+For each FavoriteCard in FavoriteCardSet
     If PlayerDeck has card_dex_00056 (Chosen One) or getRandom(0,1) <= 0.75
        Move FavoriteCard to a random position within the first 3 cards in FinalDeck
+       break
 
 return FinalDeck
 ```
