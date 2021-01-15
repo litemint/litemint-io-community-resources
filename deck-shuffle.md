@@ -22,6 +22,10 @@ Forced draw mechanic (Victory Rush, Trojan) inserts the forced card at the top o
 
 Edge Case: Boomerang will be drawn again after a full rotation but will not trigger the forced draw effect (occurs once).
 
+## Favorite Cards Probabilities Sheet
+
+https://docs.google.com/spreadsheets/d/1ZhL15teEP4gGLqqUsluWM7OVdJNGaS-LFN61DVP7cn4/edit?usp=sharing
+
 ## Shuffle Pseudo code
 
 ```
