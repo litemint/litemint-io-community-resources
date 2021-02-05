@@ -7,7 +7,7 @@ Thank you for all the contributions and we would love to see yours! Do not hesit
 - Game Website: https://litemint.io/
 - Wallet Website: https://litemint.com/
 - Exchange Website: https://stellarport.io/
-- Discord: https://discord.gg/Rn8MfUA
+- Discord: https://litemint.gg
 - Github: https://github.com/litemint
 - Twitter: https://twitter.com/LitemintHQ
 - Facebook: https://www.facebook.com/litemint
