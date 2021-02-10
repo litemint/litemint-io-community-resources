@@ -11,7 +11,7 @@ Thank you for all the contributions and we would love to see yours! Do not hesit
 - Github: https://github.com/litemint
 - Twitter: https://twitter.com/LitemintHQ
 - Facebook: https://www.facebook.com/litemint
-- Youtube: https://www.youtube.com/channel/UC4d-ENpghypzHBB-N7hLN2w
+- Youtube: https://www.youtube.com/litemint
 - Web App: https://litemint.app/
 - Google Play: https://play.google.com/store/apps/details?id=com.litemint.app
 - App Store: https://apps.apple.com/app/litemint/id1454801150
