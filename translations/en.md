@@ -69,6 +69,11 @@ card_dex_00059|**Fortune I**|0|0|0|0|You have 25% chance to double CREDIT reward
 card_dex_00060|**Brawler**|0|0|0|0|Replace your first Repair with Brawl. Passive.
 card_dex_00061|**Brawl**|0|0|0|0|50-50 chance to get 1 or 7 Damage.
 card_dex_00062|Sledgehammer|0|5|0|0|2X Damage against Armor!
+card_dex_00063|**Rampage**|0|5|0|0|Also apply Overpower.
+card_dex_00064|**Bodyguard**|0|0|0|0|Absorb 5 Damage. Passive.
+card_dex_00065|Engineer|0|0|0|0|50% immunity from Sabotage Passive.
+card_dex_00066|Critical Overload|3|0|0|0|50% chance to get X2 Energy.
+card_dex_00067|Fortune II|0|0|0|0|You have 25% chance to double CREDIT rewards. Passive.
 
 ## Card Backs
 
