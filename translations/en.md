@@ -89,6 +89,9 @@ Id | Name | Description
 12|Treasure|Not collectable.
 13|Shooting Star|Reward for Winter Super Quest.
 14|Winter Snow|Reward for Winter Quest.
+15|Laurels of Legends|Awarded to Legend tourney competitors.
+16|Trophy of Legends|Awarded to top 100 seasonal players.
+17|Justicar Badge|Reward for Full Retaliation Quest.
 
 ## Translation Contributors
 
