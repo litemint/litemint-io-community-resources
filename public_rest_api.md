@@ -52,7 +52,7 @@ Generate and shuffle a playable deck based on a given list of cards.
 
 **URL** : `https://api.litemint.com:9088/getdeck/`
 
-**Method** : `PUT`
+**Method** : `POST`
 
 **Auth required** : No
 
