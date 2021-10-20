@@ -18,7 +18,9 @@ https://github.com/litemint/litemint-io-community-resources/blob/master/public_r
 
 Once a card is played it goes to the end of the deck so it is possible to predict the order in which they will be available again.
 
-Forced draw mechanic (Victory Rush, Trojan) inserts the forced card at the top of the player deck without modifying the other card order. These forced cards will be drawn again after a full rotation.
+**Forced draw** mechanic (Victory Rush, Trojan) inserts the forced card at the top of the player deck without modifying the other card order. These forced cards will be drawn again after a full rotation.
+
+**Multiple draw** mechanic (Fast Hands) pushes an additional card to the player's hand, bypassing the maximum of 3 cards. Players will not draw additional cards till their hands have 3 or more cards.
 
 Edge Case: Boomerang will be drawn again after a full rotation but will not trigger the forced draw effect (occurs once).
 
