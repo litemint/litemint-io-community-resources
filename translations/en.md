@@ -75,6 +75,13 @@ card_dex_00065|Engineer|0|0|0|0|50% immunity from Sabotage Passive.
 card_dex_00066|Critical Overload|3|0|0|0|50% chance to get X2 Energy.
 card_dex_00067|Fortune II|0|0|0|0|You have 25% chance to double CREDIT rewards. Passive.
 
+card_dex_00068|Remote Execution|0|0|0|0|Drain 15 Energy. Deal Piercing Damage from Energy stolen.
+card_dex_00069|Dismantle|0|25|0|0|Damage to Armor only.
+card_dex_00070|Decryption|0|3|0|0|Destroy enemy Firewall.
+card_dex_00071|**Brawl Master**|0|0|0|0|+25% chance to get Brawl 7 Damage. Account Perk.
+card_dex_00072|**Fast Hands**|0|1|0|0|Draw 2 cards on next turn.
+
+
 ## Card Backs
 
 Id | Name | Description
